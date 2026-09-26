@@ -37,7 +37,23 @@ The system uses SQL Server as the backend database and connects to the database 
 
 ## Screenshots
 
-Screenshots of the application interface will be added here.
+### Login
+![Login](Screenshot%202026-08-04%20212424.png)
+
+### Dashboard
+![Dashboard](Screenshot%202026-08-04%20212457.png)
+
+### Customer Management
+![Customer Management](Screenshot%202026-08-04%20212721.png)
+
+### Appointment Management
+![Appointment Management](Screenshot%202026-08-04%20212819.png)
+
+### Billing
+![Billing](Screenshot%202026-08-04%20212854.png)
+
+### Other Screens
+![Other Screens](Screenshot%202026-08-04%20212949.png)
 
 ## Author
 
